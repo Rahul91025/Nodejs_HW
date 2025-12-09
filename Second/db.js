@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const mongoURL = 'mongodb://127.0.0.1:27017/voting'; // Use IPv4 address
-
+//Rahul new update 
 console.log("Attempting to connect to MongoDB...");
 
 mongoose.connect(mongoURL)
